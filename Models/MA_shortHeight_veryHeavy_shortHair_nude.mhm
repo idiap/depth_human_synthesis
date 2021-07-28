@@ -1,0 +1,29 @@
+# Written by MakeHuman 1.1.0 (r2105 708f2b6d9545) [hg parents command]
+version v1.1.0
+tags MA_shortHeight_VeryHeavy_shortHair
+camera 2.5 1.0 -0.415911512015 -1.0 0.621297100549 1.0625
+modifier macrodetails-universal/Muscle 0.080000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.353000
+modifier torso/torso-trans-backward|forward 1.000000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails-height/Height 0.340000
+modifier breast/BreastSize 0.500000
+modifier torso/torso-muscle-dorsi-decr|incr -0.400000
+modifier torso/torso-muscle-pectoral-decr|incr -0.400000
+modifier macrodetails/Age 0.580000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier torso/torso-scale-depth-decr|incr 0.614000
+modifier measure/measure-hips-circ-decr|incr -0.046875
+modifier measure/measure-bust-circ-decr|incr -0.017578
+modifier macrodetails-universal/Weight 1.000000
+hair short02 c104cd4a-1edc-43f9-8b94-f63345a44638
+skeleton cmu_mb.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material short02 c104cd4a-1edc-43f9-8b94-f63345a44638 short02.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False

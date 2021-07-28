@@ -1,0 +1,25 @@
+# Written by MakeHuman 1.1.0 (r2105 708f2b6d9545) [hg parents command]
+version v1.1.0
+tags WA_shortHeight_heavyWeight_longHair_nude
+camera 13.5 332.0 -1.0 0.850496841808 -1.0 1.0125
+modifier macrodetails-universal/Muscle 0.202000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails-height/Height 0.452000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.577000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier measure/measure-hips-circ-decr|incr -0.046875
+modifier measure/measure-bust-circ-decr|incr -0.017578
+modifier macrodetails-universal/Weight 1.000000
+hair long01 6c6b0bb1-3608-40b8-9108-4bfd8fa71e39
+skeleton cmu_mb.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material long01 6c6b0bb1-3608-40b8-9108-4bfd8fa71e39 long01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False

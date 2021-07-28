@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configure>
+    <inputs>
+	    <humanmodelspath path="depth_human_synthesis/DressedModels"/>
+	    <mocapdatasetpath path="path/to/MOCAP/database/CMU_mocap"/>
+      <mocapselectedlist path="if/you/want/to/select/mocap/secuences/set/a/file.txt"/>
+      <statusRecoveryFile path=""/>
+	</inputs>    
+	<outputs>
+      <destinationpath path="depth_humam_synthesis/output/path"/>
+    </outputs>
+</Configure>

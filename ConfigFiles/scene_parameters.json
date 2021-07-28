@@ -1,0 +1,10 @@
+{
+  "min_distance_to_camera": 0.7,
+  "number_of_models":2,
+  "fixed_models_distance": false,
+  "distance_btw_models": 1.0,
+  "use_same_mocap": false,
+  "main_config_file": "../../ConfigFiles/main_config.xml",
+  "rec_manager_config_file": "../../ConfigFiles/rec_manager_config.xml",
+  "convert_to_uint16" : false
+}

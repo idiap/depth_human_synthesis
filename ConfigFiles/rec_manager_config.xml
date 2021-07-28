@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configure>
+    <referencepoint x="0.0" y="0.0" z="1.2"/>
+    <airlock>
+        <dimx value="3.0"/>
+        <dimy value="3.0"/>
+        <dimz minValue="2.2" maxValue="2.7"/>
+        <stepx value="1.2"/>
+        <stepy value="1.2"/>
+        <materials>
+            <walla transparency="0.0"/>
+            <wallb transparency="0.0"/>
+            <wallc transparency="0.0"/>
+            <walld transparency="0.0"/>
+        </materials>
+    </airlock>
+    <cameras>
+        <camera name="kinect_1">
+            <lensmm value="35"/>
+            <widthpx value="512"/>
+            <heightpx value="424"/>
+            <widthccdmm value="32"/>
+            <heightccdmm value="18"/>
+            <sensorfit value="AUTO"/>               
+            <resolutionpercentage value="100.0"/>
+        </camera>
+    </cameras>
+</Configure>
